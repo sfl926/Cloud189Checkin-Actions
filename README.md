@@ -32,7 +32,6 @@ jntmcxk
 ![](http://tu.yaohuo.me/imgs/2020/06/af2013b1ef5d8430.png)
 ![](http://tu.yaohuo.me/imgs/2020/06/09c22adcec7b5d81.png)
 
-
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
